@@ -93,4 +93,18 @@ Wireframes serve as a visual tool to align designers, developers, and stakeholde
 3. Reducing Revisions
 Wireframes highlight potential usability issues early. For example, the placement of buttons or navigation links can be adjusted before development, saving time and avoiding costly changes later in the process.
 
+## Real-World Scenario: Hotel Booking Management System
+  Overview:
+A hotel chain designed a new Hotel Booking Management System. During the wireframing phase, key pages like the room selection, booking, and payment were mapped out to identify potential issues before development began.
+
+Identified Usability Issues:
+Room Selection Page: Filters were placed at the bottom, requiring unnecessary scrolling and making it difficult to refine results quickly.
+Booking Form: A long, complicated form lacked clarity on mandatory fields, potentially confusing users.
+Payment Process: The “Confirm Payment” button was placed at the bottom, causing users to scroll down, which could lead to abandonment.
+
+Resolution:
+Room Filters were moved to a sidebar, making them easier to find and use.
+The Booking Form was simplified with clearer field labels and mandatory indicators.
+The Payment Button was repositioned at the top, and a progress bar was added to guide users through the checkout process.
+In conclusion, wireframing identified critical usability issues early on, allowing for design adjustments that ultimately made the Hotel Booking Management System more user-friendly.
 
