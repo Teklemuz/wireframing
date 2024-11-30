@@ -65,3 +65,15 @@ Simple sketches or basic digital layouts focusing on overall structure and funct
 More detailed and refined versions, often closer to the final design, including more specific layout and design elements such as typography, images, and buttons. High-fidelity wireframes provide a clearer idea of how the final product will look and function.
 
 ## The type of wireframe is High-fidelity
+
+# There are many tools available for creating wireframes, ranging from simple sketching apps to more advanced design platforms.
+Here are some of the most popular tools:
+Figma: A web-based design platform known for its collaborative features, ease of use, and robust prototyping capabilities. Figma
+Sketch: A powerful vector graphics editor specifically designed for UI and UX design, offering a vast plugin ecosystem for customization. (Note: Currently macOS only) Sketch
+Adobe XD: Part of the Adobe Creative Suite, XD provides a comprehensive solution for UI design, prototyping, and animation. 
+
+## Figma: A Recommended Tool
+
+[Figma](https://www.figma.com/) is a popular, cloud-based tool for wireframing and design, known for its real-time collaboration and user-friendly interface. It allows multiple users to work on the same project simultaneously, making it ideal for team-based workflows. Figma offers flexibility, enabling designers to create wireframes, prototypes, and high-fidelity designs within the same platform. Its reusable components and libraries streamline the wireframing process, ensuring consistency and speed.
+
+
